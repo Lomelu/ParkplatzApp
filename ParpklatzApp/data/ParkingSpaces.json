@@ -1,0 +1,27 @@
+{ 
+    "data": [{  
+ "parkspace":  {
+    "id": 630,
+    "name": "Teufelsgraben",
+    "latitude": 49.8894, 
+    "longitude": 10.87805,
+    "occupied": true
+ } },
+ {"parkspace": {
+    "id": 631,
+    "name": "Kaimsgasse",
+    "latitude": 49.89801, 
+    "longitude": 10.89872,
+    "occupied": false
+ }},
+ {"parkspace": {
+    "id": 632,
+    "name": "Gasfabrikstrasse",
+    "latitude": 49.90067, 
+    "longitude": 10.8873,
+    "occupied": true
+ } }
+    ]
+} 
+
+  
